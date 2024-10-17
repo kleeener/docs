@@ -1,4 +1,4 @@
-While searching the audit log on {% data variables.product.prodname_dotcom %}, include `hashed_token:"VALUE"` in your search query, replacing `VALUE` with the SHA-256 hash of the token.
+While searching the audit log on {% data variables.product.prodname_dotcom %}, include `data.hashed_token:"VALUE"` in your search query, replacing `VALUE` with the SHA-256 hash of the token.
 
 {% note %}
 
